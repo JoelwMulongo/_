@@ -26,12 +26,7 @@
                 
 <link rel="icon" href="images/icon.jpeg"/>
 		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
-	</head> <script>
-window.onload = function exampleFunction() {
-alert('The website you are visiting is the older one. Redirect to newer one?');
-window.location.href="https://joelmulongow.vercel.app"
-}
-</script>
+	</head> 
 
 	<body class="is-preload">
 
