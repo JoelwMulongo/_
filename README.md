@@ -1,7 +1,7 @@
 
 <html>
 <head> 
-<H1> Joel Mulongo's Birthday Bash </H1>
+<H1 style="color:orange;"> Joel Mulongo's Birthday Bash </H1>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 p {
@@ -17,7 +17,7 @@ p {
 
 <p id="demo"></p>
 👋 <Strong> Guys I Welcome you all to my bash</strong>🎉 to be held at 4js, behind Mountain view mall in Westlands <BR> <BR>
-We have reservations for 30 adults, I would be delighted with your attendance <BR><BR> <IMG SRC= "happy-birthday-gif.gif"> <BR>
+<h3 style="color:powderblue;"> Important to note that we have reservations for 30 adults, I would be delighted with your attendance <h3><BR><BR> <IMG SRC= "happy-birthday-gif.gif"> <BR>
 <Strong>Time </strong>🕘 21:00 to After Midnight🕔<BR> <BR>          
 <Strong>Exact Venue Location </strong>📌👇 <BR> <BR>
 <Strong>Google Maps </strong>
