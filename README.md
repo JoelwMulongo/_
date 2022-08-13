@@ -1,4 +1,5 @@
-
+<canvas id=c></canvas>
+<p>From the codepals to <a href="https://codepen.io/tmrDevelops">Tiffany</a><span>, by <a href="https://codepen.io/towc">Matei</a></span></p>
 <style>
 canvas {
 	position: absolute;
