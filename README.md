@@ -307,8 +307,7 @@
                 </div>
             </div>
              <h1>Amal</h1>
-<!-- Footer -->
-					<section id="footer">
+				
 						<div class="inner">
 							<h2 class="major"<p style="color :orange">Get in touch</h2></p>
 							<p>You can reach me through my socials or by filling the form below with a comment.</p>
@@ -359,19 +358,7 @@
 
 			</div>
 
-		<!-- Scripts -->
-			<script src="assets/js/jquery.min.js"></script>
-			<script src="assets/js/jquery.scrollex.min.js"></script>
-			<script src="assets/js/browser.min.js"></script>
-			<script src="assets/js/breakpoints.min.js"></script>
-			<script src="assets/js/util.js"></script>
-			<script src="assets/js/main.js"></script>
-                        
-
 	
-
-
-        </div>
         <script>
             
         </script>
