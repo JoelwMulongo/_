@@ -1,6 +1,6 @@
 
 <html>
-<head> Welcome all to My Birthday Party 
+<head> 
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 p {
@@ -15,7 +15,7 @@ p {
 <body>
 
 <p id="demo"></p>
-
+👋 Guys I Welcome you all to my bash to be held at 4js, behind Mountain view mall in Westlands
 <script>
 // Set the date we're counting down to
 var countDownDate = new Date("Aug 24 , 2022 00:00:00").getTime();
