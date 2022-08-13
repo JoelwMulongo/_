@@ -16,6 +16,7 @@ p {
 
 <p id="demo"></p>
 👋 Guys I Welcome you all to my bash to be held at 4js, behind Mountain view mall in Westlands
+<div style="width: 100%"><iframe width="100%" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?width=100%25&amp;height=300&amp;hl=en&amp;q=Mountain%20view%20mall%20Nairobi%20+(TechOne)&amp;t=k&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"><a href="https://www.maps.ie/distance-area-calculator.html">measure area map</a></iframe></div>
 <script>
 // Set the date we're counting down to
 var countDownDate = new Date("Aug 24 , 2022 00:00:00").getTime();
