@@ -307,22 +307,7 @@
                 </div>
             </div>
              <h1>Amal</h1>
-
-        </div>
-        <script>
-            
-        </script>
-        <script>
-            if (document.location.search.match(/type=embed/gi)) {
-                window.parent.postMessage('resize', "*");
-            }
-        </script>
-    
-
-</body></html>
-							
-									
-				<!-- Footer -->
+<!-- Footer -->
 					<section id="footer">
 						<div class="inner">
 							<h2 class="major"<p style="color :orange">Get in touch</h2></p>
@@ -384,3 +369,20 @@
                         
 
 	
+
+
+        </div>
+        <script>
+            
+        </script>
+        <script>
+            if (document.location.search.match(/type=embed/gi)) {
+                window.parent.postMessage('resize', "*");
+            }
+        </script>
+    
+
+</body></html>
+							
+									
+				
