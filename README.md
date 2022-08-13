@@ -18,7 +18,7 @@ p {
 <p id="demo"></p>
 👋 <Strong> Guys I Welcome you all to my bash</strong>🎉 to be held at 4js, behind Mountain view mall in Westlands <BR> <BR>
 <h3 style="color:green;"> Important to note that we have reservations for 30 adults, I would be delighted with your attendance <h3><BR><BR> <IMG SRC= "happy-birthday-gif.gif"> <BR>
-<Strong>Time </strong>🕘 21:00 to After Midnight🕔<BR> <BR>          
+<Strong>Time </strong>🕘 21:00 to After Midnight🕔<BR> <BR>
 <Strong>Exact Venue Location </strong>📌👇 <BR> <BR>
 <Strong>Google Maps </strong>
 <div style="width: 100%"><iframe width="100%" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?width=100%25&amp;height=300&amp;hl=en&amp;q=Mountain%20view%20mall%20Nairobi%20+(TechOne)&amp;t=k&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"><a href="https://www.maps.ie/distance-area-calculator.html">measure area map</a></iframe></div>
