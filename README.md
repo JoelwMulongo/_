@@ -1,8 +1,8 @@
 <html> 
-<canvas id=c></canvas>
+<Body id=c></body>
 <p>From the codepals to <a href="https://codepen.io/tmrDevelops">Tiffany</a><span>, by <a href="https://codepen.io/towc">Matei</a></span></p>
 <style>
-canvas {
+Body {
 	position: absolute;
 	top: 0;
 	left: 0;
