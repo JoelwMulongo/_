@@ -1,4 +1,4 @@
-Countdown to birthday <!DOCTYPE HTML>
+
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -7,6 +7,8 @@ p {
   text-align: center;
   font-size: 60px;
   margin-top: 0px;
+  background-image: url('images.png');
+}
 }
 </style>
 </head>
