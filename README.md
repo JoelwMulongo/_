@@ -289,8 +289,19 @@
         <link href="https://fonts.googleapis.com/css?family=Wendy+One" rel="stylesheet" type="text/css">
         <div class="container">
             <div class="balloon">
-                <div><span>☺</span>
+                <div><span>H</span>
                 </div>
+<div><span>A</span>
+                </div>
+                <div><span>P</span>
+                </div>
+                <div><span>P</span>
+                </div>
+                <div><span>Y</span>
+                </div>
+                <div><span>!</span>
+                </div>
+
                 <div><span>B</span>
                 </div>
                 <div><span>D</span>
@@ -302,7 +313,7 @@
                 <div><span>!</span>
                 </div>
             </div>
-             <h1>Amal</h1>
+             <h1>Joel Mulongo</h1>
 
         </div>
         <script>
