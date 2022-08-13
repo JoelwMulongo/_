@@ -12,13 +12,13 @@
 <meta name="description" content="passionate in manipulating, exploring. visualizing and modelling in tech to obtain insights that can be used in future decision making">
 <!-- Open Graph / Facebook -->
 <meta property="og:type" content="website">
-<meta property="og:url" content="https://joelwmulongo.github.io/-/">
+<meta property="og:url" content="">
 <meta property="og:title" content="JOEL MULONGO | Developer, Designer & Tech Enthusiast">
 <meta property="og:description" content="passionate in manipulating, exploring. visualizing and modelling in tech to obtain insights that can be used in future decision making">
 <meta property="og:image" content=" https://user-images.githubusercontent.com/75514748/174220864-493b7966-1d74-45da-ab6c-7912407f86e4.jpg">
 <!-- Twitter -->
 <meta property="twitter:card" content="summary_large_image">
-<meta property="twitter:url" content="https://joelwmulongo.github.io/-/">
+<meta property="twitter:url" content="">
 <meta property="twitter:title" content="JOEL MULONGO | Developer, Designer & Tech Enthusiast">
 <meta property="twitter:description" content="passionate in manipulating, exploring. visualizing and modelling in tech to obtain insights that can be used in future decision making">
 <meta property="twitter:image" content=" https://user-images.githubusercontent.com/75514748/174220864-493b7966-1d74-45da-ab6c-7912407f86e4.jpg">
