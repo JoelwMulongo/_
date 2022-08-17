@@ -1,9 +1,8 @@
-<body style="background-color:pink;"> <BR>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/mulongojoel?style=social)](https://twitter.com/intent/follow?screen_name=mulongojoel) 
 <img width="130" height="20" src="https://visitor-badge.glitch.me/badge?page_id=bitnumbry/_">
 <html>
-<head> 
+<head style="background-color:pink;">
 <H1 style="color:orange;"> Joel Mulongo's Birthday Bash </H1>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
@@ -16,7 +15,7 @@ p {
 }
 </style>
 </head>
-<body>
+body style="background-color:pink;"> 
 
 <p id="demo"></p>
 👋 <Strong> Guys I Welcome you all to my bash</strong>🎉 to be held at 4js, behind Mountain view mall in Westlands <BR> <BR>
